@@ -1,0 +1,56 @@
+﻿  Admin.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AdminManager.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Client.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ClientManger.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication21.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DataSourceInterface.cpp
+  Employee.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EmployeeManager.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FileManager.cpp
+  FilesHelper.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Parser.cpp
+  Person.cpp
+  PrintMessage.cpp
+  Screens.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Route Fundmentals\(163,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Route Fundmentals\(183,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TimeMangment.cpp
+D:\Route Fundmentals\(33,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Validation.cpp
+  Generating Code...
+D:\Route Fundmentals\(58,1): warning C4715: 'Employee::add_client': not all control paths return a value
+D:\Route Fundmentals\(84,1): warning C4715: 'Employee::searchClient': not all control paths return a value
+D:\Route Fundmentals\(38,1): warning C4715: 'TimeMangment::generateAutoNumbers': not all control paths return a value
+D:\Route Fundmentals\(80,1): warning C4715: 'ClientManger::clientLogin': not all control paths return a value
+D:\Route Fundmentals\(84,1): warning C4715: 'EmployeeManager::EmployeeLogin': not all control paths return a value
+D:\Route Fundmentals\(70,1): warning C4715: 'AdminManager::AdminLogin': not all control paths return a value
+D:\Route Fundmentals\(186,1): warning C4715: 'EmployeeManager::searchClients': not all control paths return a value
+D:\Route Fundmentals\(59,1): warning C4715: 'Admin::searchEmployee': not all control paths return a value
+D:\Route Fundmentals\(41,1): warning C4715: 'Admin::addEmployee': not all control paths return a value
+D:\Route Fundmentals\(38,1): warning C4715: 'TimeMangment::generateAutoNumbers': not all control paths return a value
+  ConsoleApplication21.vcxproj -> D:\Route Fundmentals\#Final\x64\Debug\ConsoleApplication21.exe

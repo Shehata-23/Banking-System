@@ -1,0 +1,6 @@
+Operation: Employee Added|Done by: Admin|ID: 2|New  Employee ID: 2|Time-Stamp: 2024-05-08 18:54:27
+Operation: Client Added|Done by: Admin|ID: 2|New  Client ID: 2|Time-Stamp: 2024-05-08 18:54:58
+Operation: Password Changed|Done by: Employee|ID: 2|Time-Stamp: 2024-05-08 18:56:27
+Operation: Password Changed|Done by: Client|ID: 1|Time-Stamp: 2024-09-03 12:18:58
+Operation: Withdraw|Done by: Client|ID: 1|Amount Withdrawed: 500|Time-Stamp: 2024-09-03 12:19:14
+Operation: Withdraw|Done by: Client|ID: 1|Amount Withdrawed: 500|Time-Stamp: 2024-09-03 12:19:32
